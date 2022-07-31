@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-LABEL maintainer="Tomohisa Kusano <siomiz@gmail.com>"
+LABEL maintainer="wanpeace <aganagun553@gmail.com>"
 
 ENV VNC_SCREEN_SIZE 1024x768
 
